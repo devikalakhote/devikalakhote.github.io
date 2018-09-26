@@ -1,4 +1,3 @@
-# devikalakhote.github.io
 ## README
 
 My Github user page is at: 
