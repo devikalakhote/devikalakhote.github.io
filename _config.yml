@@ -1,2 +1,4 @@
 name: Devika Lakhotes' personal site
 markdown: kramdown
+plugins:
+  - jekyll-seo-tag
