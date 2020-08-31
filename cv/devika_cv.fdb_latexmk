@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1537979779 "devika_cv.tex" "devika_cv.pdf" "devika_cv" 1537979780
+["pdflatex"] 1598911095 "devika_cv.tex" "devika_cv.pdf" "devika_cv" 1598911096
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1480098701 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1480098701 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -48,11 +48,11 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "devika_cv.aux" 1537979780 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "devika_cv.out" 1537979780 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "devika_cv.tex" 1537979778 3000 cfb7394d54eac4e3752e67e6089a47e3 ""
+  "devika_cv.aux" 1598911096 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "devika_cv.out" 1598911095 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "devika_cv.tex" 1598911094 3184 6de8549f66157974b6e56f8ab45832ca ""
   (generated)
-  "devika_cv.pdf"
-  "devika_cv.aux"
   "devika_cv.log"
+  "devika_cv.pdf"
   "devika_cv.out"
+  "devika_cv.aux"
