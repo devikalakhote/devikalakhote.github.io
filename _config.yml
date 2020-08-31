@@ -1,4 +1,4 @@
-name: Devika Lakhotes' personal site
+name: Devika Lakhote's personal site
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
