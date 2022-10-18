@@ -1,6 +1,3 @@
----
-title: Devika Lakhote
----
 
 # Welcome
 
