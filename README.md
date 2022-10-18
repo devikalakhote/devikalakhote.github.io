@@ -1,4 +1,4 @@
 
 # Welcome
 
-![Image not found](/devika_headshot_1.jpg)
+<img src="devika_headshot_1.jpg", alt="image not found", width=400px, height=600px>
