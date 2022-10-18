@@ -4,4 +4,4 @@ title: Devika Lakhote
 
 # Welcome
 
-Testing
+![Image not found](/devika_headshot_1.jpg)
